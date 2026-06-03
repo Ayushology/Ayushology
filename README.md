@@ -1,12 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on building scalable full-stack applications and sharpening my competitive programming skills.<br>👯 I’m looking to collaborate on full-stack open-source projects, especially those integrating AI/ML.<br>🤝 I’m looking for help with mastering advanced Cloud Architecture and system design concepts.<br>🌱 I’m currently learning Generative AI.<br>💬 Ask me about full-stack development (JavaScript/TypeScript, Node.js, React), databases (Postgres, MongoDB), or optimizing C++ algorithms!<br>⚡ Fun fact: I take more time in debugging rather in writing code.
 
----
-
-## 🚀 Competitive Programming Stats
-### 🧮 Total Questions Solved: u<!-- stats:end -->
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-564b8a287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactayush4work@gmail.com) 
 
