@@ -4,8 +4,7 @@
 ---
 
 ## 🚀 Competitive Programming Stats
-
-
+### 🧮 Total Questions Solved: <!-- stats:start -->0<!-- stats:end -->
 ---
 
 ## 🌐 Socials:
