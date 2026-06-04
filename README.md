@@ -1,23 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working on building scalable full-stack applications and sharpening my competitive programming skills.<br>👯 I’m looking to collaborate on full-stack open-source projects, especially those integrating AI/ML.<br>🤝 I’m looking for help with mastering advanced Cloud Architecture and system design concepts.<br>🌱 I’m currently learning Generative AI.<br>💬 Ask me about full-stack development (JavaScript/TypeScript, Node.js, React), databases (Postgres, MongoDB), or optimizing C++ algorithms!<br>⚡ Fun fact: I take more time in debugging rather in writing code.
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-564b8a287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactayush4work@gmail.com) 
+<img src="https://avatars.githubusercontent.com/u/9919?v=4" width="180px" alt="Ayush Kumar"/>
 
-## 🏆 Coding Profiles:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ayushology7/) [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AYUSHOLOGY) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prime_ayush) [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dpcckzjs/)
+# Ayush Kumar
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+### _"From Algorithms to Applications."_ ⚡
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayushology&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ayushology&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushology&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://komarev.com/ghpvc/?username=Ayushology&color=blueviolet&style=for-the-badge)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Ayush+Kumar;Full-Stack+Developer;DSA+Enthusiast;Generative+AI+Learner;Open+Source+Contributor;Always+Learning+🚀" alt="Typing SVG" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+🚀 Building scalable web applications and AI-powered solutions.
+
+💡 Strong interest in Full-Stack Development, Data Structures & Algorithms, System Design, Cloud Computing, and Generative AI.
+
+🎯 Currently focused on becoming a better Software Engineer through consistent learning, open-source contributions, and real-world projects.
+
+- 🔭 Working on scalable full-stack applications.
+- 🌱 Learning Generative AI.
+- 👯 Looking to collaborate on open-source projects.
+- 💬 Ask me about React, Node.js, JavaScript, C++, MongoDB, PostgreSQL, and DSA.
+- ⚡ Fun fact: I spend more time debugging than writing code.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kumar-564b8a287)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactayush4work@gmail.com)
+
+---
+
+## 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ayushology7/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AYUSHOLOGY)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/prime_ayush)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dpcckzjs/)
+
+---
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Ayushology&theme=tokyonight&show_icons=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=Ayushology&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushology&theme=tokyonight&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+[![Ayush's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushology&theme=tokyo-night)](https://github.com/Ayushology)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayushology&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Ayushology&theme=tokyonight&margin-w=15)
 
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🚀 Current Goals
+
+- Master DSA
+- Contribute to Open Source
+- Build AI Applications
+- Learn Advanced System Design
+- Become a Top Software Engineer
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Code • Learn • Build • Repeat 🚀**
+
+</div>
