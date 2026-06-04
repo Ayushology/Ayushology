@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://wallpapers.com/images/hd/one-piece-monkey-d-luffy-k726yh0wa5x6ytc2.jpg" alt="Luffy Banner" width="100%" />
+<img src="https://wallpapers.com/images/hd/one-piece-monkey-d-luffy-k726yh0wa5x6ytc2.jpg" alt="Luffy Banner" width="700" style="border-radius:15px"/>
 
 <br><br>
 
 # Ayush Kumar
 
 ### _"From Algorithms to Applications."_ ⚡
-
-![](https://komarev.com/ghpvc/?username=Ayushology&color=ff69b4&style=for-the-badge)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DSA+Enthusiast;Generative+AI+Learner;Open+Source+Contributor;Always+Building+🚀" />
 
 </div>
 
